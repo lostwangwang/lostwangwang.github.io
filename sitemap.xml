@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lostwangwang.github.io/posts/demo1/</loc>
+    <loc>https://lostwangwang.github.io/blogs/</loc>
+    <lastmod>2025-03-18T03:30:54+08:00</lastmod>
+  </url><url>
+    <loc>https://lostwangwang.github.io/blogs/demo1/</loc>
     <lastmod>2025-03-18T03:30:54+08:00</lastmod>
   </url><url>
     <loc>https://lostwangwang.github.io/posts/</loc>
+    <lastmod>2025-03-18T03:30:54+08:00</lastmod>
+  </url><url>
+    <loc>https://lostwangwang.github.io/posts/demo1/</loc>
     <lastmod>2025-03-18T03:30:54+08:00</lastmod>
   </url><url>
     <loc>https://lostwangwang.github.io/</loc>
@@ -14,25 +20,11 @@
     <loc>https://lostwangwang.github.io/about/</loc>
     <lastmod>2025-03-17T22:53:13+08:00</lastmod>
   </url><url>
-    <loc>https://lostwangwang.github.io/categories/</loc>
-    <lastmod>2025-03-17T22:53:13+08:00</lastmod>
-  </url><url>
-    <loc>https://lostwangwang.github.io/categories/category-1/</loc>
-    <lastmod>2025-03-17T22:53:13+08:00</lastmod>
-  </url><url>
-    <loc>https://lostwangwang.github.io/categories/category-2/</loc>
-    <lastmod>2025-03-17T22:53:13+08:00</lastmod>
-  </url><url>
-    <loc>https://lostwangwang.github.io/tags/tag-1/</loc>
-    <lastmod>2025-03-17T22:53:13+08:00</lastmod>
-  </url><url>
-    <loc>https://lostwangwang.github.io/tags/tag-2/</loc>
-    <lastmod>2025-03-17T22:53:13+08:00</lastmod>
-  </url><url>
-    <loc>https://lostwangwang.github.io/tags/</loc>
-    <lastmod>2025-03-17T22:53:13+08:00</lastmod>
-  </url><url>
     <loc>https://lostwangwang.github.io/posts/test/</loc>
     <lastmod>2025-03-17T22:24:17+08:00</lastmod>
+  </url><url>
+    <loc>https://lostwangwang.github.io/categories/</loc>
+  </url><url>
+    <loc>https://lostwangwang.github.io/tags/</loc>
   </url>
 </urlset>
