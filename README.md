@@ -2,7 +2,7 @@
 
 [迷途的汪汪的 BLOG](https://lostwangwang.github.io/)
 
-## 部署方式
+## 1. 部署方式
 
 #### 1. 创建新文章.
 

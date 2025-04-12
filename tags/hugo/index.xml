@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on 迷途的汪汪</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on 迷途的汪汪</description>
+    <image>
+      <title>迷途的汪汪</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 12 Apr 2025 09:51:46 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 Reading Books Plan</title>
+      <link>http://localhost:1313/books/2025-reading-books/</link>
+      <pubDate>Sat, 12 Apr 2025 09:51:46 +0800</pubDate>
+      <guid>http://localhost:1313/books/2025-reading-books/</guid>
+      <description>&lt;h2 id=&#34;阅读记录&#34;&gt;阅读记录&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;书目&lt;/th&gt;
+          &lt;th&gt;作者&lt;/th&gt;
+          &lt;th&gt;进度&lt;/th&gt;
+          &lt;th&gt;完成时间&lt;/th&gt;
+          &lt;th&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;《穷人》&lt;/td&gt;
+          &lt;td&gt;陀思妥耶夫斯基&lt;/td&gt;
+          &lt;td&gt;已读完&lt;/td&gt;
+          &lt;td&gt;2025.1&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;《白夜》&lt;/td&gt;
+          &lt;td&gt;陀思妥耶夫斯基&lt;/td&gt;
+          &lt;td&gt;已读完&lt;/td&gt;
+          &lt;td&gt;2025.1&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;《低智商犯罪》&lt;/td&gt;
+          &lt;td&gt;紫金陈&lt;/td&gt;
+          &lt;td&gt;已读完&lt;/td&gt;
+          &lt;td&gt;2025.1&lt;/td&gt;
+          &lt;td&gt;比较有趣 😂&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;《玉米》&lt;/td&gt;
+          &lt;td&gt;毕飞宇&lt;/td&gt;
+          &lt;td&gt;已读完&lt;/td&gt;
+          &lt;td&gt;2025.1&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;《蛙》&lt;/td&gt;
+          &lt;td&gt;莫言&lt;/td&gt;
+          &lt;td&gt;已读完&lt;/td&gt;
+          &lt;td&gt;2025.2&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;《我们会在爱的宇宙里重逢》&lt;/td&gt;
+          &lt;td&gt;misaki636&lt;/td&gt;
+          &lt;td&gt;已读完&lt;/td&gt;
+          &lt;td&gt;2025.2&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;《绝叫》&lt;/td&gt;
+          &lt;td&gt;叶真中显&lt;/td&gt;
+          &lt;td&gt;已读完&lt;/td&gt;
+          &lt;td&gt;2025.2&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;《史蒂芬·乔布斯传》&lt;/td&gt;
+          &lt;td&gt;Walter Isaacson&lt;/td&gt;
+          &lt;td&gt;进行中&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;《黄仁勋:英伟达之芯》&lt;/td&gt;
+          &lt;td&gt;StephenWitt&lt;/td&gt;
+          &lt;td&gt;进行中&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;《THE WORLDS I SEE》&lt;/td&gt;
+          &lt;td&gt;Feifei Li&lt;/td&gt;
+          &lt;td&gt;进行中&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;《苏东坡传》&lt;/td&gt;
+          &lt;td&gt;李一冰&lt;/td&gt;
+          &lt;td&gt;进行中&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;《太白金星有点烦》&lt;/td&gt;
+          &lt;td&gt;马伯庸&lt;/td&gt;
+          &lt;td&gt;进行中&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;《那些回不去的年少时光》&lt;/td&gt;
+          &lt;td&gt;桐华&lt;/td&gt;
+          &lt;td&gt;进行中&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;《一地鸡毛》&lt;/td&gt;
+          &lt;td&gt;刘震云&lt;/td&gt;
+          &lt;td&gt;进行中&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;《雨季不再来》&lt;/td&gt;
+          &lt;td&gt;三毛&lt;/td&gt;
+          &lt;td&gt;进行中&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;《涅朵奇卡》&lt;/td&gt;
+          &lt;td&gt;陀思妥耶夫斯基&lt;/td&gt;
+          &lt;td&gt;进行中&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;《推拿》&lt;/td&gt;
+          &lt;td&gt;毕飞宇&lt;/td&gt;
+          &lt;td&gt;进行中&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>
