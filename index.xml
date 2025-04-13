@@ -11,8 +11,54 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 12 Apr 2025 09:51:46 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 20:50:45 +0800</lastBuildDate>
     <atom:link href="https://lostwangwang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第15周总结</title>
+      <link>https://lostwangwang.github.io/summaries/15-weekly-summary/</link>
+      <pubDate>Sun, 13 Apr 2025 20:50:45 +0800</pubDate>
+      <guid>https://lostwangwang.github.io/summaries/15-weekly-summary/</guid>
+      <description>&lt;h3 id=&#34;1-学习方面&#34;&gt;1. 学习方面&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; React 进度: 37/142&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Leetcode 445 周赛 做出两道(题还未补完)，本周 leetcode 坚持的并不好，下周需要改进&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 本周机器学习进度欠佳未完成, 仅仅只看完李宏毅老师的&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; The missing semeter 进度未开始&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-生活方面&#34;&gt;2. 生活方面&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 跑步 4 次,共 16.92km&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 读书 1h42min&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 办理港澳通行证以及护照&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-本周解决的问题&#34;&gt;3. 本周解决的问题&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;问题&lt;/th&gt;
+          &lt;th&gt;原因排查&lt;/th&gt;
+          &lt;th&gt;解决办法&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;code&gt;Pytorch&lt;/code&gt;安装时, 使用&lt;code&gt;torch.cuda.is_available()&lt;/code&gt;返回&lt;code&gt;False&lt;/code&gt;?&lt;/td&gt;
+          &lt;td&gt;原因是使用 &lt;code&gt;conda&lt;/code&gt;下载时使用了清华源, 清华源下载的是 &lt;code&gt;CPU&lt;/code&gt; 版本&lt;/td&gt;
+          &lt;td&gt;清除了清华源镜像，重新下载了&lt;code&gt;Pytorch&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;4-下周计划&#34;&gt;4. 下周计划&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;React&lt;/code&gt; 完成 前 100 个视频&lt;/li&gt;
+&lt;li&gt;学习李航老师《统计学习方法》&lt;/li&gt;
+&lt;li&gt;土堆 Pytorch 视频学习完成&lt;/li&gt;
+&lt;li&gt;复习 Python 基础知识&lt;/li&gt;
+&lt;li&gt;继续学习李宏毅老师的视频&lt;/li&gt;
+&lt;li&gt;开始英语口语的学习&lt;/li&gt;
+&lt;li&gt;Leetcode 抓紧学习&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>2025 Reading Books Plan</title>
       <link>https://lostwangwang.github.io/books/2025-reading-books/</link>
