@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>考研总结 on 迷途的汪汪</title>
-    <link>http://localhost:1313/categories/%E8%80%83%E7%A0%94%E6%80%BB%E7%BB%93/</link>
-    <description>Recent content in 考研总结 on 迷途的汪汪</description>
+    <title>迷途的汪汪的十年 on 迷途的汪汪</title>
+    <link>http://localhost:1313/categories/%E8%BF%B7%E9%80%94%E7%9A%84%E6%B1%AA%E6%B1%AA%E7%9A%84%E5%8D%81%E5%B9%B4/</link>
+    <description>Recent content in 迷途的汪汪的十年 on 迷途的汪汪</description>
     <image>
       <title>迷途的汪汪</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 12 Apr 2025 09:44:27 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E8%80%83%E7%A0%94%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%E8%BF%B7%E9%80%94%E7%9A%84%E6%B1%AA%E6%B1%AA%E7%9A%84%E5%8D%81%E5%B9%B4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>考研总结</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
