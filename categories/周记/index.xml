@@ -11,8 +11,25 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 13 Apr 2025 20:50:45 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 10:16:21 +0800</lastBuildDate>
     <atom:link href="https://lostwangwang.github.io/categories/%E5%91%A8%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>16 Weekly Summary</title>
+      <link>https://lostwangwang.github.io/summaries/16-weekly-summary/</link>
+      <pubDate>Mon, 21 Apr 2025 10:16:21 +0800</pubDate>
+      <guid>https://lostwangwang.github.io/summaries/16-weekly-summary/</guid>
+      <description>&lt;h3 id=&#34;16-周周记&#34;&gt;16 周周记&lt;/h3&gt;
+&lt;h4 id=&#34;本周任务&#34;&gt;本周任务&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 写完考研总结&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;下周任务&#34;&gt;下周任务&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;继续看机器学习&lt;/li&gt;
+&lt;li&gt;学习 React&lt;/li&gt;
+&lt;li&gt;学习李航老师——《统计学习方法》&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
     <item>
       <title>第15周总结</title>
       <link>https://lostwangwang.github.io/summaries/15-weekly-summary/</link>
