@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on 迷途的汪汪</title>
-    <link>https://lostwangwang.github.io/posts/</link>
-    <description>Recent content in Posts on 迷途的汪汪</description>
+    <title>技术学习 on 迷途的汪汪</title>
+    <link>https://lostwangwang.github.io/categories/%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in 技术学习 on 迷途的汪汪</description>
     <image>
       <title>迷途的汪汪</title>
       <url>https://lostwangwang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 10 Jun 2025 11:46:04 +0800</lastBuildDate>
-    <atom:link href="https://lostwangwang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lostwangwang.github.io/categories/%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git学习</title>
       <link>https://lostwangwang.github.io/posts/git-learning/</link>
@@ -37,21 +37,6 @@
 &lt;p&gt;&lt;code&gt;git init&lt;/code&gt;: 初始化一个新的 Git 仓库。&lt;/p&gt;
 &lt;h2 id=&#34;2-文件状态&#34;&gt;2. 文件状态:&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;git&lt;/code&gt;中文件有两种状态：未跟踪和已跟踪。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>真是让人不甘心啊</title>
-      <link>https://lostwangwang.github.io/posts/stories-01/</link>
-      <pubDate>Tue, 13 May 2025 14:14:44 +0800</pubDate>
-      <guid>https://lostwangwang.github.io/posts/stories-01/</guid>
-      <description>&lt;p&gt;近日，考研公示期已经过去。成功地开始自己的旅游之路，我去了武汉。一是为了和朋友写一个项目，二是计划之外的事情。&lt;/p&gt;
-&lt;p&gt;武汉，我知道，我高中喜欢的姑娘在那里上学。4 月 26 日那一天，我到了武汉，我有点想和她见面，但是我又害怕打扰她的生活。我问了我的朋友，知道我以前喜欢她的朋友告诉我去找她玩玩，我一直在犹豫，最后还是按捺不住，给她的微信发了一条消息，她说她即将要前往上海了，最近在收拾东西呢。她问我是不是要来武汉了。我告诉她我已经在武汉了，而且在她们学校附近。她说我为什么不早点说，我告诉她我害怕。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小屋</title>
-      <link>https://lostwangwang.github.io/posts/house-01/</link>
-      <pubDate>Wed, 07 May 2025 12:02:48 +0800</pubDate>
-      <guid>https://lostwangwang.github.io/posts/house-01/</guid>
-      <description>&lt;p&gt;在 2022 年 10 月，成为赵雷的粉丝。之后听了所有他的歌，每一张专辑反复听，发现了一首特别喜欢的歌，叫做 &lt;strong&gt;《小屋》&lt;/strong&gt;。我很喜欢这首歌的歌词，“小屋你可感到我来去的脚步在你心脏里我躲不去孤独”，“我的小屋我可以光着屁股让你看到我的肌肉和肋骨”，“我的小屋不用和他们一样累的时候我不用去故作笑容”。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
