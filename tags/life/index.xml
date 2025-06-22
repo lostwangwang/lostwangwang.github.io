@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Life on 迷途的汪汪</title>
+    <link>http://localhost:1313/tags/life/</link>
+    <description>Recent content in Life on 迷途的汪汪</description>
+    <image>
+      <title>迷途的汪汪</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 07 May 2025 12:02:48 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>小屋</title>
+      <link>http://localhost:1313/posts/house-01/</link>
+      <pubDate>Wed, 07 May 2025 12:02:48 +0800</pubDate>
+      <guid>http://localhost:1313/posts/house-01/</guid>
+      <description>&lt;p&gt;在 2022 年 10 月，成为赵雷的粉丝。之后听了所有他的歌，每一张专辑反复听，发现了一首特别喜欢的歌，叫做 &lt;strong&gt;《小屋》&lt;/strong&gt;。我很喜欢这首歌的歌词，“小屋你可感到我来去的脚步在你心脏里我躲不去孤独”，“我的小屋我可以光着屁股让你看到我的肌肉和肋骨”，“我的小屋不用和他们一样累的时候我不用去故作笑容”。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
